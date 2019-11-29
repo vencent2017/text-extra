@@ -1,6 +1,6 @@
 {
   "name": "text-extra",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "基于vue的用于文本扩展的组件",
   "main": "index.js",
   "bin": "index.js",
