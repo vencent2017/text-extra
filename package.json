@@ -1,0 +1,12 @@
+{
+  "name": "text-extra",
+  "version": "0.0.1",
+  "description": "基于vue的用于文本扩展的组件",
+  "main": "index.js",
+  "bin": "music.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vencent",
+  "license": "ISC"
+}
