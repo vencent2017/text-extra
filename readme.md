@@ -4,4 +4,4 @@
 `npm `
 + import TextExtra from 'text-extra'
 + Vue.use(TextExtra)
-+ template 中    <TextExtra>这是一段很长很长的文本</TextExtra>
++ template 中    `<TextExtra>这是一段很长很长的文本</TextExtra>`
